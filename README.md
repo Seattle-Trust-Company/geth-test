@@ -1,10 +1,14 @@
-Node 01:
+# geth-test
 
-Node 02:
+## Node Info
+Node 01
+- Address: 0x19ABe6b87285C0E93F6181c0a6A97A554b1a2D76
 
-Node 03:
+Node 02
+- Address: 0xeaa4EFfec067e554B7f6A2472D225C70bA145060
 
+Node 03
+- Address: 0xcC0557e1eFE6Feab13bcAceA51E8045cc5F49a21
 
-Node 04:
-
-0x9C2D33603c485c9a1256f6Bf8419d788FF5d67b9
+Node 04
+- Address: 0x9C2D33603c485c9a1256f6Bf8419d788FF5d67b9
