@@ -8,4 +8,5 @@ geth --datadir ./node04 \
 	--http.corsdomain "*" \
 	--port 30306 \
 	--networkid 15 \
-	--nat "any"
+	--nat "any" \
+	--allow-insecure-unlock

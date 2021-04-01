@@ -8,4 +8,5 @@ geth --datadir ./node02 \
 	--http.corsdomain "*" \
 	--port 30304 \
 	--networkid 15 \
-	--nat "any"
+	--nat "any" \
+	--allow-insecure-unlock

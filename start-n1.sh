@@ -7,4 +7,5 @@ geth --datadir ./node01 \
 	--http.corsdomain "*" \
 	--port 30303 \
 	--networkid 15 \
-	--nat "any"
+	--nat "any" \
+	--allow-insecure-unlock
